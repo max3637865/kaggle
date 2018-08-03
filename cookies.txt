@@ -1,0 +1,18 @@
+# HTTP Cookie File downloaded with cookies.txt by Genuinous @genuinous
+# This file can be used by wget, curl, aria2c and other standard compliant tools.
+# Usage Examples:
+#   1) wget -x --load-cookies cookies.txt "https://www.kaggle.com/jessicali9530/celeba-dataset"
+#   2) curl --cookie cookies.txt "https://www.kaggle.com/jessicali9530/celeba-dataset"
+#   3) aria2c --load-cookies cookies.txt "https://www.kaggle.com/jessicali9530/celeba-dataset"
+#
+.kaggle.com	TRUE	/	FALSE	1596356263	_ga	GA1.2.1725860288.1533113105
+www.kaggle.com	FALSE	/	TRUE	1564649104	ai_user	TwBLx|2018-08-01T08:45:04.641Z
+.kaggle.com	TRUE	/	FALSE	1556443272	intercom-id-koj6gxx6	233a4b0b-7ccc-419e-bf95-f24b2cf4046d
+www.kaggle.com	FALSE	/	FALSE	1548872482	ka_sessionid	3ffd53adbca5d135ab6d55fcf947af2b333f45d8
+.kaggle.com	TRUE	/	TRUE	1535705277	.ASPXAUTH	5C8CE1C62F4C3B85EFBD6A1672D2A35AE93B3A3C3C1B5E933CA7265729F7A81EB8E3504C3D6FEA6892D34D1319FBE033242CEA49D8FEDF898152E3E65F165625C6D03DB4E83B563D49AE2B8DDAEF13C277DBB4C2
+.kaggle.com	TRUE	/	FALSE	1556614266	intercom-lou-koj6gxx6	1
+www.kaggle.com	FALSE	/	TRUE	0	__RequestVerificationToken	gRkAacPpl1PvQ8cQl8Q4KGc6Z_jFFAWvzHcyIzed7KDsrLxnqtLLjPPMVVIKWqgHu9UaiJa_HU6rn_8SoMJ0p3d7imc1
+.kaggle.com	TRUE	/	FALSE	1533370663	_gid	GA1.2.747868865.1533255819
+.www.kaggle.com	TRUE	/	FALSE	0	ARRAffinity	9cdfecbef889e061f3bc0464829ff7a819baba61608a7cb6ff9f9f325a1ca679
+www.kaggle.com	FALSE	/	TRUE	1533286066	ai_session	o6pPH|1533284242439|1533284266136
+.kaggle.com	TRUE	/	FALSE	1533889066	intercom-session-koj6gxx6	bWwxTEU3VlArUC9pNE81SHFrQ1llbG0rNHE4QUxoZGo3ekE1ZktZR0c5dndDL3lzdDdIbmZ0Z0ZjNkJvd2p6Qi0tblllbUVzdGZOMTZUKy92dTBJUFFTdz09--38c54ecb0a51379b1ea0a3dd60a2f869da05883c
